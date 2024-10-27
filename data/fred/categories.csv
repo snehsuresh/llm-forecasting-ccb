@@ -1,0 +1,56 @@
+Category ID,Category Name
+1,Production & Business Activity
+2,Productivity & Costs
+3,Industrial Production & Capacity Utilization
+4,Employment Cost Index
+5,Federal Government Debt
+6,Retail Trade
+9,Consumer Price Indexes (CPI and PCE)
+10,"Population, Employment, & Labor Markets"
+11,Current Employment Statistics (Establishment Survey)
+12,Current Population Survey (Household Survey)
+13,U.S. Trade & International Transactions
+15,Exchange Rates
+16,Exports
+17,Imports
+18,National Income & Product Accounts
+21,Price Indexes & Deflators
+22,Interest Rates
+23,Banking
+24,Monetary Data
+25,M1 and Components
+26,Memorandum Items
+28,M3 and Components
+29,M2 and Components
+30,MZM
+31,Producer Price Indexes (PPI)
+46,Financial Indicators
+51,Bankers Acceptance Rate
+64,8th District Banking Performance
+65,Arkansas
+66,Illinois
+67,Indiana
+68,Kentucky
+69,Mississippi
+70,Missouri
+71,Tennessee
+72,8th District
+73,United States
+82,Treasury Inflation-Indexed Securities
+83,Condition of Banks
+84,New England Census Division
+85,Middle Atlantic Census Division
+86,East North Central Census Division
+87,West North Central Census Division
+88,South Atlantic Census Division
+89,East South Central Census Division
+90,West South Central Census Division
+91,Mountain Census Division
+92,Pacific Census Division
+93,United States
+94,Daily Rates
+95,Monthly Rates
+96,M2 Minus Small Time Deposits
+97,Housing
+99,Securities & Investments
+100,Commercial Banking
